@@ -1,0 +1,33 @@
+_repo: A-Monk-of-Fife--13-Being-the-Chronicle-Written-by-Norman-Leslie-of-Pitcullo-Concerning-Marvell__1631
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian women saints -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcc 'PR'
+- !lcsh 'France -- History -- Charles VII, 1422-1461 -- Fiction'
+- !lcsh 'Joan, of Arc, Saint, 1412-1431 -- Fiction'
+- !lcsh 'Biographical fiction'
+- GITenberg
+title: "A Monk of Fife\r\nBeing the Chronicle Written by Norman Leslie of Pitcullo,\
+  \ Concerning Marvellous Deeds That Befell in the Realm of France, in the Years of\
+  \ Our Redemption, MCCCCXXIX-XXXI"
+url: http://www.gutenberg.org/ebooks/1631
